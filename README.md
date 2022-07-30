@@ -27,6 +27,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskaan190" alt="muskaan190" /></a> </p>
 
+## ❤ Visitors Count 🗠 :
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/muskaan190/count.svg" />
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskaan190&show_icons=true&locale=en" alt="muskaan190" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaan190&" alt="muskaan190" /></p>
